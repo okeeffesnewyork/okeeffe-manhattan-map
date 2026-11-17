@@ -1,26 +1,39 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Georgia O'Keeffe's Manhattan</title>
-  <style>
-    body {
-      font-family: Georgia, serif;
-      max-width: 850px;
-      margin: 70px auto;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    h1 { color: #243b53; }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Georgia O’Keeffe’s Manhattan — Interactive Historical Map</title>
+<style>
+:root{color-scheme:light}*{box-sizing:border-box}body{margin:0;font-family:Georgia,'Times New Roman',serif;color:#243b53;background:#f8f7f3}header{padding:24px max(20px,calc((100vw - 1100px)/2));background:#fff;border-bottom:1px solid #d8d5cc}h1{font-size:clamp(1.6rem,4vw,2.5rem);margin:0 0 6px}header p{margin:5px 0;color:#4a5560}main{max-width:1140px;margin:auto;padding:20px}.setup{background:#fff;border:1px solid #dedbd3;padding:18px;border-radius:8px;margin-bottom:16px}.setup p{line-height:1.5;margin:8px 0}label{display:block;font-weight:bold;margin:12px 0 6px}input{width:min(100%,540px);padding:11px;border:1px solid #8c9299;border-radius:4px;font:inherit}button{margin:10px 8px 0 0;padding:11px 18px;background:#243b53;color:#fff;border:0;border-radius:4px;cursor:pointer;font:inherit}button:focus,input:focus{outline:3px solid #d7a34d;outline-offset:2px}#map{height:min(70vh,670px);min-height:420px;border:1px solid #c8c5bc;border-radius:8px;background:#e9e7e1;display:flex;align-items:center;justify-content:center;text-align:center;padding:20px}#map.ready{display:block;padding:0}#status{font-family:Arial,sans-serif;font-size:.9rem;color:#5c4b32;margin:12px 0;min-height:1.4em}.small{font:0.88rem/1.5 Arial,sans-serif;color:#53606b}footer{padding:20px;text-align:center;color:#66717a;font:0.85rem Arial,sans-serif}@media(max-width:650px){main{padding:12px}header{padding:20px 14px}#map{min-height:400px}}
+</style>
 </head>
 <body>
-  <h1>Georgia O'Keeffe's Manhattan</h1>
-  <h2>Interactive Historical Map</h2>
-  <p>Explore 37 stops tracing Georgia O'Keeffe's
-     life and artistic development in New York.</p>
-  <p>The interactive map is being prepared.</p>
+<header><h1>Georgia O’Keeffe’s Manhattan</h1><p>Interactive Historical Map</p><p>Explore 37 stops tracing Georgia O’Keeffe’s life and artistic development in New York.</p></header>
+<main>
+<section class="setup" id="setup"><strong>Map connection test</strong><p>This is the first technical test. Enter your Google Maps JavaScript API key below and click <strong>Display Manhattan map</strong>. The 37 historical stops will be added after the map itself works.</p><label for="apiKey">Google Maps API key</label><input id="apiKey" type="password" placeholder="Paste the key from Google Cloud’s Show key button" autocomplete="off" spellcheck="false"><div><button id="loadButton" type="button">Display Manhattan map</button><button id="clearButton" type="button">Clear key</button></div><p class="small">Your key is used by your browser to load Google Maps. This page does not save it to GitHub or to browser storage. Google Maps website keys are visible to browsers, so keep the Google Cloud website and API restrictions enabled.</p></section>
+<div id="status" role="status" aria-live="polite">Waiting for a Google Maps API key.</div>
+<div id="map" aria-label="Google map of Manhattan">The Manhattan map will appear here after you connect your API key.</div>
+<p class="small">Historical locations, photographs, narratives, and article links are not yet loaded. This page is a connection test, not the finished historical map.</p>
+</main><footer>Georgia O’Keeffe’s Manhattan · Historical map in preparation</footer>
+<script>
+(function(){
+'use strict';
+const status=document.getElementById('status'), mapEl=document.getElementById('map'), keyEl=document.getElementById('apiKey'), button=document.getElementById('loadButton');
+function message(s){status.textContent=s;}
+window.initOkeeffeMap=function(){
+try{mapEl.classList.add('ready');new google.maps.Map(mapEl,{center:{lat:40.7580,lng:-73.9855},zoom:13,mapTypeControl:true,streetViewControl:true,fullscreenControl:true});message('Google Map loaded successfully. Manhattan is displayed.');}
+catch(e){message('The map could not be displayed: '+e.message);}
+};
+window.gm_authFailure=function(){message('Google Maps rejected the API key. Check the key, website restriction, billing, and Maps JavaScript API in Google Cloud.');};
+button.addEventListener('click',function(){
+const key=keyEl.value.trim();if(!key){message('Enter the API key from Google Cloud (not the Key ID).');return;}
+if(document.getElementById('google-maps-script')){message('A loading attempt was already made. Refresh the page to try again.');return;}
+button.disabled=true;message('Connecting to Google Maps…');
+const script=document.createElement('script');script.id='google-maps-script';script.src='https://maps.googleapis.com/maps/api/js?key='+encodeURIComponent(key)+'&callback=initOkeeffeMap&loading=async';script.async=true;script.onerror=function(){message('Could not load Google Maps. Check your internet connection and API settings.');button.disabled=false;};document.head.appendChild(script);
+});
+document.getElementById('clearButton').addEventListener('click',function(){keyEl.value='';message('Key field cleared. Refresh this page to restart the connection test.');});
+})();
+</script>
 </body>
 </html>
