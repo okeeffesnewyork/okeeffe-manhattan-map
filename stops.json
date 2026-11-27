@@ -5,8 +5,8 @@
     "name": "Old Dominion Line / Pier 26 Waterfront",
     "address": "Pier 26 Tide Deck, Hudson River Park, New York, NY",
     "position": [
-      40.7208,
-      -74.0124
+      40.721538,
+      -74.0156
     ],
     "intro": [
       "In autumn 1907, nineteen-year-old Georgia O’Keeffe arrived in Manhattan by boat. Her likely route took her from Virginia aboard an Old Dominion Line passenger steamer bound for Pier 26 on the Hudson River. She expected her brother to meet her, but neither he nor the friend he had deputized appeared. An older woman she met aboard the boat helped her navigate the unfamiliar city."
@@ -126,8 +126,8 @@
     "name": "291 — Alfred Stieglitz’s Gallery",
     "address": "291 Fifth Avenue, New York, NY",
     "position": [
-      40.7466,
-      -73.9865
+      40.746062,
+      -73.985684
     ],
     "intro": [
       "On a snowy January day in 1908, Georgia O’Keeffe and several fellow Art Students League students walked south to Alfred Stieglitz’s small gallery at 291 Fifth Avenue. They had come to see drawings by Auguste Rodin. Eight years later, Stieglitz would exhibit O’Keeffe’s own drawings in these rooms—without first asking her permission."
@@ -302,7 +302,10 @@
     "stop": 3,
     "name": "American Radiator Building",
     "address": "40 West 40th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.752783,
+      -73.983806
+    ],
     "intro": [
       "In Radiator Building—Night, New York (1927), Georgia O’Keeffe painted the black-and-gold tower at 40 West 40th Street beneath sweeping beams of light. On the neighboring building, a real sign advertised the magazine “Scientific American.” O’Keeffe replaced that advertisement with “Alfred Stieglitz” in glowing red letters. The man who had photographed and exhibited her work appeared, this time, in a city painting that she composed herself."
     ],
@@ -366,8 +369,8 @@
     "name": "Hotel Chatham — New York Street with Moon",
     "address": "Vanderbilt Avenue (former alignment), between East 48th and East 49th Streets, Manhattan, New York, NY — approximate historic site",
     "position": [
-      40.756,
-      -73.977
+      40.7563,
+      -73.9755
     ],
     "intro": [
       "Georgia O’Keeffe’s New York Street with Moon (1925) looks upward between tall buildings toward a small patch of night sky. The High Museum associates the setting with streets near the Hotel Chatham. O’Keeffe was beginning to paint Manhattan not as a precise street map, but as the experience of looking up through a canyon of buildings. The moon, streetlamp and high walls become the essential elements of the scene."
@@ -461,7 +464,10 @@
     "stop": 5,
     "name": "Waldorf Astoria — Chrysler Building view",
     "address": "301 Park Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.756511,
+      -73.973347
+    ],
     "intro": [
       "Around 1960, more than a decade after making New Mexico her permanent home, Georgia O’Keeffe photographed the Chrysler Building through a window at the Waldorf Astoria. A pale curtain frames the tower, holding the hotel room and the skyline in the same image. Earlier she had painted New York from the high rooms she shared with Alfred Stieglitz at the Shelton Hotel. Now, returning to Manhattan as a visitor, she looked at the city through her own camera."
     ],
@@ -522,7 +528,10 @@
     "stop": 6,
     "name": "Beverly Hotel — New York, Night",
     "address": "125 East 50th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.756601,
+      -73.971991
+    ],
     "intro": [
       "O’Keeffe’s narrow, glowing painting New York, Night (1928–1929) looks north toward the Beverly Hotel on East 50th Street from their home at the Shelton Hotel. At night, Lexington Avenue appeared to her like a “very tall thin bottle,” alive with colored movement. Against deep darkness she concentrated electric lights and the vertical forms of the buildings. Alfred Stieglitz photographed a comparable view north from Room 3003 at the Shelton in 1927, making a revealing companion to O’Keeffe’s painted interpretation."
     ],
@@ -613,8 +622,8 @@
     "name": "Downtown Gallery — The 1961 Exhibition",
     "address": "32 East 51st Street, between Madison and Park Avenues, New York, NY 10022",
     "position": [
-      40.7581,
-      -73.9748
+      40.757994,
+      -73.974923
     ],
     "intro": [
       "From April 11 to May 6, 1961, Edith Halpert’s Downtown Gallery at 32 East 51st Street presented Georgia O’Keeffe’s Recent Paintings and Drawings. Halpert had become her New York dealer after An American Place closed in 1950. O’Keeffe had made New Mexico her permanent home in 1949, but her paintings continued to return to Manhattan. Her first solo exhibition had been held at 291 in 1917; forty-four years later, she was still showing new work in the city where her career had developed."
@@ -706,7 +715,10 @@
     "stop": 8,
     "name": "Radio City Music Hall — A Mural Unrealized",
     "address": "1260 Avenue of the Americas, New York, NY",
-    "position": null,
+    "position": [
+      40.760062,
+      -73.979837
+    ],
     "intro": [
       "In April 1932, Georgia O’Keeffe accepted a $1,500 commission to paint floral decoration for the women’s second-mezzanine powder room at the new Radio City Music Hall. She had not consulted Alfred Stieglitz before accepting it. He opposed the project, but she proceeded. When she visited the site with designer Donald Deskey, prepared canvas had begun detaching from the wall plaster. Delays mounted as the theater’s opening approached. O’Keeffe did not complete the mural. Yasuo Kuniyoshi supplied the botanical decoration now visible in the restored room."
     ],
@@ -771,7 +783,10 @@
     "stop": 9,
     "name": "N. W. Ayer / Dole — Rockefeller Center",
     "address": "30 Rockefeller Plaza, New York, NY",
-    "position": null,
+    "position": [
+      40.759149,
+      -73.979598
+    ],
     "intro": [
       "Through the advertising agency N. W. Ayer, the Hawaiian Pineapple Company approached Georgia O’Keeffe in 1938 to make paintings for a Dole campaign. She traveled to the Hawai‘i Territory in 1939,  painting valleys, flowers and the volcanic coast. She wanted to study pineapple plants where they grew, but company representatives would not allow her to stay among plantation workers. Back in Manhattan, still without a pineapple painting, she received a living plant sent by air cargo. She studied it in her apartment and painted Pineapple Bud (1939), later used in a Dole advertisement."
     ],
@@ -893,7 +908,10 @@
     "stop": 10,
     "name": "Museum of Modern Art — A Career On The Walls",
     "address": "11 West 53rd Street, New York, NY",
-    "position": null,
+    "position": [
+      40.761194,
+      -73.977013
+    ],
     "intro": [
       "On May 14, 1946, the Museum of Modern Art opened a retrospective of Georgia O’Keeffe’s work—the first retrospective the museum had devoted to a woman artist. Charcoal drawings, flowers, skyscrapers and western landscapes occupied its galleries. O’Keeffe and Alfred Stieglitz saw the exhibition together. Thirty years earlier he had shown her charcoal drawings at 291, without asking her permission. Now a major New York museum displayed paintings and drawings made over decades, only weeks before Stieglitz’s death."
     ],
@@ -1019,7 +1037,10 @@
     "stop": 11,
     "name": "Elizabeth Arden / Gymnasium Moderne",
     "address": "691 Fifth Avenue at East 54th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.761034,
+      -73.974889
+    ],
     "intro": [
       "In 1936 Elizabeth Arden commissioned Georgia O’Keeffe to paint a monumental Jimson Weed for the Gymnasium Moderne at 689–691 Fifth Avenue. The canvas, nearly seven feet across, showed four luminous white flowers. Arden offered $10,000—far more than the $1,500 proposed for O’Keeffe’s unfinished Radio City Music Hall mural. O’Keeffe had obtained the new commission without Stieglitz’s help. Writing to their friend Henwar Rodakiewicz, she summed up the achievement in three words: “Got it myself.”"
     ],
@@ -1139,7 +1160,10 @@
     "stop": 12,
     "name": "59 East 54th Street — Their Last Shared Apartment",
     "address": "59 East 54th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.760195,
+      -73.972815
+    ],
     "intro": [
       "In December 1942, Georgia O’Keeffe and Alfred Stieglitz moved into 59 East 54th Street, their last shared apartment in Manhattan. The rooms were smaller than the Arno penthouse but closer to An American Place, Stieglitz’s gallery on Madison Avenue. O’Keeffe wrote to a friend about the change: “He is pleased with the change. I am not so pleased but I don’t really care.” While he remained close to his New York gallery, she spent increasingly long periods painting in New Mexico."
     ],
@@ -1222,8 +1246,8 @@
     "name": "Shelton Hotel",
     "address": "525 Lexington Avenue (east side of Lexington Avenue at East 49th Street), New York, NY 10017",
     "position": [
-      40.7548,
-      -73.97355
+      40.755443,
+      -73.972683
     ],
     "intro": [
       "Georgia O’Keeffe and Alfred Stieglitz moved into the Shelton Hotel in November 1925, first living on the twelfth floor and later on the thirtieth.",
@@ -1383,7 +1407,10 @@
     "stop": 14,
     "name": "Arno Penthouse — A Larger Place To Work",
     "address": "405 East 54th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.756344,
+      -73.963784
+    ],
     "intro": [
       "In April 1936, Georgia O’Keeffe and Alfred Stieglitz left the Shelton for a penthouse at the Arno, 405 East 54th Street. O’Keeffe wanted space to make larger paintings. Bright rooms faced the East River and Welfare Island, while a terrace opened to the skyline. Inside, striped Navajo rugs crossed dark floors; shells and other objects from the Southwest shared her rooms with New York views. The lease and telephone were in her name, and she paid the household bills."
     ],
@@ -1534,7 +1561,10 @@
     "stop": 15,
     "name": "An American Place",
     "address": "509 Madison Avenue, Room 1710, New York, NY",
-    "position": null,
+    "position": [
+      40.759453,
+      -73.974125
+    ],
     "intro": [
       "On December 15, 1929, Alfred Stieglitz opened An American Place in six pearl-gray rooms on the seventeenth floor of 509 Madison Avenue.",
       "Here he exhibited O’Keeffe’s paintings of New York, Lake George and New Mexico. Her travels increasingly took her away from Manhattan, but her paintings returned to these rooms."
@@ -1658,7 +1688,10 @@
     "stop": 16,
     "name": "Anderson Galleries / Intimate Gallery",
     "address": "Historic 489 Park Avenue near East 59th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.762545,
+      -73.969652
+    ],
     "intro": [
       "In February 1921, Alfred Stieglitz exhibited 145 photographs at the Anderson Galleries, 489 Park Avenue. Forty-five were studies of Georgia O’Keeffe—her face, hands, posture and, in some photographs, her nude body. He called the sequence a Demonstration of Portraiture. In January 1923, the same galleries opened One Hundred Pictures by O’Keeffe, showing her own art on a much larger scale. Stieglitz opened the Intimate Gallery in the building in December 1925, continuing his exhibition program."
     ],
@@ -1784,7 +1817,10 @@
     "stop": 17,
     "name": "51 East 60th Street — Anita Pollitzer’s network",
     "address": "51 East 60th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.763896,
+      -73.969661
+    ],
     "intro": [
       "In March 1916 O’Keeffe returned to New York and enrolled in Arthur Wesley Dow's Teachers College course in teaching methods, a requirement connected with her forthcoming position at West Texas State Normal College in Canyon. She stayed with Anita Pollitzer's relatives at 51 East 60th Street.4",
       "That January, Pollitzer had carried O’Keeffe’s abstract charcoal drawings to Alfred Stieglitz at 291. Only weeks later, in May, O’Keeffe discovered that Stieglitz had placed ten of her drawings on public exhibition without asking her."
@@ -1854,8 +1890,8 @@
     "name": "The Eva Home",
     "address": "153 East 62nd Street, New York, NY",
     "position": [
-      40.76445,
-      -73.9676
+      40.764038,
+      -73.966078
     ],
     "intro": [
       "The Eva Home at 153 East 62nd Street was Georgia O’Keeffe’s first intended New York residence. Recommended by her former school principal, it offered relatively inexpensive, supervised accommodation for young women working or studying in Manhattan.",
@@ -1978,7 +2014,10 @@
     "stop": 19,
     "name": "1111 Madison Avenue — Stieglitz Family Home",
     "address": "1111 Madison Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.77901,
+      -73.959913
+    ],
     "intro": [
       "Before Georgia O’Keeffe entered Alfred Stieglitz’s life, 1111 Madison Avenue was where he resided with his wife Emmeline and daughter Kitty. In 1918, after O’Keeffe returned to New York, he brought her to the apartment to photograph her while his wife was away. Emmeline came home unexpectedly. Soon afterward Stieglitz moved out and joined O’Keeffe in the borrowed studio at 114 East 59th Street."
     ],
@@ -2071,7 +2110,10 @@
     "stop": 20,
     "name": "60 East 65th Street — Leopold Stieglitz’s Home",
     "address": "60 East 65th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.766694,
+      -73.967671
+    ],
     "intro": [
       "In December 1920, Georgia O’Keeffe and Alfred Stieglitz moved into the home of Stieglitz’s brother Leopold at 60 East 65th Street. They spent New York winters there through 1924. Nearby yards and the backs of buildings became material for O’Keeffe’s charcoal Backyard at 65th Street (1920). The title connects her art to this neighborhood, although the precise viewpoint has not been established. The original house is gone; the Mayfair building now occupies the site."
     ],
@@ -2137,7 +2179,10 @@
     "stop": 21,
     "name": "Plaza Hotel and South Central Park",
     "address": "768 Fifth Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.76446,
+      -73.97449
+    ],
     "intro": [
       "During her first New York year, Georgia O’Keeffe walked the mile from her lodging at the Eva Home on East 62nd Street toward the Art Students League on West 57th Street, often passing through Central Park. She later remembered walking past the Plaza Hotel, into the park and then turning toward the school."
     ],
@@ -2201,8 +2246,8 @@
     "name": "Sheep Meadow",
     "address": "Central Park, Manhattan, New York, NY",
     "position": [
-      40.7715,
-      -73.9747
+      40.771944,
+      -73.975
     ],
     "intro": [
       "Georgia O’Keeffe remembered an unexpected sight from her early years in New York: sheep grazing in Central Park. She recalled it decades later in a 1983 conversation with Andy Warhol for “Interview” magazine. The animals and open grass had a rural familiarity, even as tall buildings and busy streets rose around the park."
@@ -2266,7 +2311,10 @@
     "stop": 23,
     "name": "Art Students League",
     "address": "215 West 57th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.766241,
+      -73.980599
+    ],
     "intro": [
       "Georgia O’Keeffe studied at the Art Students League at 215 West 57th Street in 1907–1908. Fellow student Eugene Speicher repeatedly asked her to pose for him.",
       "“Speicher wanted to paint me—but I wanted to work myself,” she remembered.",
@@ -2444,7 +2492,10 @@
     "stop": 24,
     "name": "Museum of Modern Art — First Fifth Avenue Location",
     "address": "730 Fifth Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.762869,
+      -73.97472
+    ],
     "intro": [
       "The Museum of Modern Art opened in temporary Fifth Avenue quarters in 1929, before moving to its later home on West 53rd Street. That December it included Georgia O’Keeffe in Paintings by 19 Living Americans. Her paintings, first championed in Stieglitz’s small galleries, had reached a newly founded museum. The Heckscher Building at 730 Fifth Avenue records this early phase of MoMA’s history. O’Keeffe’s 1946 retrospective took place at the museum’s later West 53rd Street address."
     ],
@@ -2505,7 +2556,10 @@
     "stop": 25,
     "name": "Teachers College — Arthur Wesley Dow",
     "address": "525 West 120th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.810278,
+      -73.96069
+    ],
     "intro": [
       "In 1912, while studying with Alon Bement in Virginia, O’Keeffe encountered the compositional ideas of Arthur Wesley Dow. In autumn 1914 she came to Teachers College at Columbia University to study in Dow’s orbit, returning again in spring 1916.",
       "Dow’s approach offered a way to organize pictures through line, mass and rhythm rather than simply copying appearances."
@@ -2626,8 +2680,8 @@
     "name": "Mount Sinai Hospital — A Skylight Remembered",
     "address": "1468 Madison Avenue, New York, NY 10029",
     "position": [
-      40.7906,
-      -73.9538
+      40.790434,
+      -73.952805
     ],
     "intro": [
       "In 1927 Georgia O’Keeffe underwent two operations at Mount Sinai Hospital for benign breast cysts. She later recalled the bright skylight above her as an anesthetic took hold. The opening seemed to spin and become a “small white dot in the black room.” Within weeks she painted Black Abstraction (1927), a composition of darkness around a tiny point of light. A 1922 photograph documents a similar skylit operating room at the hospital."
@@ -2748,7 +2802,10 @@
     "stop": 27,
     "name": "Doctors Hospital — Illness and Farewell",
     "address": "170 East End Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.775948,
+      -73.944439
+    ],
     "intro": [
       "In February 1933, after the collapse of her Radio City Music Hall commission and during a period of severe personal strain, Georgia O’Keeffe entered Doctors Hospital at 170 East End Avenue.",
       "She would return to the same hospital thirteen years later, when Alfred Stieglitz was dying."
@@ -2821,7 +2878,10 @@
     "stop": 28,
     "name": "Whitney Museum — 1970 Retrospective",
     "address": "945 Madison Avenue at East 75th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.773417,
+      -73.963818
+    ],
     "intro": [
       "In October 1970, the Whitney Museum of American Art opened a major retrospective of Georgia O’Keeffe at its then-new Madison Avenue building. O’Keeffe came to New York to help install the exhibition. More than six decades had passed since she attended the Art Students League and made her first Manhattan drawings. The paintings brought together in the Whitney’s galleries came from many years and places, including the city she had painted from the Shelton Hotel. She helped shape their presentation herself."
     ],
@@ -2914,7 +2974,10 @@
     "stop": 29,
     "name": "Brooklyn Bridge — A Late New York Subject",
     "address": "Brooklyn Bridge, New York, NY",
-    "position": null,
+    "position": [
+      40.7057,
+      -73.9964
+    ],
     "intro": [
       "In 1949 Georgia O’Keeffe studied the Brooklyn Bridge by car on Sunday mornings, driving through lower Manhattan and back and forth across the East River. She turned its towers and suspension cables into the painting Brooklyn Bridge (1949), simplifying the crossing into broad stone masses, vertical lines and openings of sky. She made New Mexico her permanent home that June."
     ],
@@ -3006,8 +3069,8 @@
     "name": "35 East 58th Street — First Married-Period Home",
     "address": "35 East 58th Street, New York, NY",
     "position": [
-      40.7632,
-      -73.9724
+      40.76312,
+      -73.97122
     ],
     "intro": [
       "In November 1924, Georgia O’Keeffe and Alfred Stieglitz moved into an apartment at 35 East 58th Street. His divorce from Emmeline had become final in September. They married on December 11 at the home of their friend John Marin in Cliffside Park, New Jersey, and returned to their Manhattan apartment without a reception or honeymoon. Their first married-period home lasted only about a year. In November 1925 they moved to the Shelton Hotel and began a different chapter of city life."
@@ -3075,7 +3138,10 @@
     "stop": 31,
     "name": "114 East 59th Street — the 59th Street Studio",
     "address": "114 East 59th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.762399,
+      -73.969307
+    ],
     "intro": [
       "In June 1918, Georgia O’Keeffe left her Texas teaching job and moved to a studio at 114 East 59th Street lent by Alfred Stieglitz’s niece Elizabeth. Stieglitz joined her in July and began photographing her. O’Keeffe remembered a bright front room with a north skylight and south-facing windows, followed by a much darker room beyond a narrow opening. In 59th St. Studio (1919), she painted that passage from light to shadow. The rooms gave her time to paint without a teaching schedule.",
       "Eleven years earlier, O’Keeffe had arrived in New York by boat, looking for a brother who failed to meet her. When she returned in June 1918, Stieglitz was waiting at Pennsylvania Station.",
@@ -3201,7 +3267,10 @@
     "stop": 32,
     "name": "Camera Club of New York — Before 291",
     "address": "3–7 West 29th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.74581,
+      -73.98745
+    ],
     "intro": [
       "In 1897 Alfred Stieglitz became editor of Camera Notes, the journal of the Camera Club of New York. He filled its pages with carefully chosen photographs and criticism arguing that photography deserved recognition as an art. The work predated his acquaintance with Georgia O’Keeffe and even his gallery at 291. The historic Camera Club building associated with West 29th Street recalls the institutional world from which Stieglitz would eventually break to publish Camera Work and found the Photo-Secession."
     ],
@@ -3294,7 +3363,10 @@
     "stop": 33,
     "name": "Madison Square Park — Stieglitz’s Flatiron",
     "address": "Madison Square Park / Flatiron District, New York, NY",
-    "position": null,
+    "position": [
+      40.74219,
+      -73.98787
+    ],
     "intro": [
       "In the winter of 1903, Alfred Stieglitz photographed the Flatiron Building through the trees of Madison Square Park. He remembered the tower rising through the weather like the “bow of a monster ocean steamer.” In The Flatiron, dark branches partly screen the new skyscraper as it emerges through wintry haze. The photograph belongs to the Manhattan Stieglitz had learned to see before O’Keeffe arrived. Years later, she too would turn the city’s towers into carefully composed images."
     ],
@@ -3357,7 +3429,10 @@
     "stop": 34,
     "name": "Historic National Arts Club — the Photo-Secession",
     "address": "37 West 34th Street, New York, NY",
-    "position": null,
+    "position": [
+      40.749689,
+      -73.986495
+    ],
     "intro": [
       "In March 1902 the newly formed Photo-Secession exhibited pictorial photographs at the National Arts Club’s then-location on West 34th Street. Alfred Stieglitz helped establish the group after disputes about how photography should be judged. Instead of waiting for painting academies to accept photographs, its members organized their own exhibition. This event came before Stieglitz opened 291 and before Georgia O’Keeffe came to New York. It belongs to the story of how the galleries and ideas she later encountered were created."
     ],
@@ -3420,7 +3495,10 @@
     "stop": 35,
     "name": "Metropolitan Museum of Art — Defending a Photograph",
     "address": "1000 Fifth Avenue, New York, NY",
-    "position": null,
+    "position": [
+      40.779393,
+      -73.963409
+    ],
     "intro": [
       "After Alfred Stieglitz died in 1946, Georgia O’Keeffe worked with Doris Bry to sort and protect his photographs and extensive art collection. She examined prints, paper, mounts and their condition before arranging gifts to museums. At the Metropolitan Museum of Art, a curator proposed trimming mounts on some photographs to make them fit storage boxes. O’Keeffe refused. Rather than permit the photographs to be altered, she withdrew the proposed gift. The dispute shows how firmly she defended the choices Stieglitz had made when finishing his prints."
     ],
@@ -3486,8 +3564,8 @@
     "name": "The Original Whitney Museum — Georgia O’Keeffe Collection",
     "address": "8–12 West 8th Street, New York, NY 10011",
     "position": [
-      40.7327,
-      -73.9974
+      40.732385,
+      -73.997236
     ],
     "intro": [
       "The Whitney Museum of American Art opened its original Greenwich Village building in 1931 and acquired Georgia O’Keeffe’s The White Calico Flower the following year. That building at 8–12 West 8th Street survives as the New York Studio School. Her 1970 retrospective, featured at a separate map stop, took place at the museum’s former 945 Madison Avenue building."
@@ -3633,7 +3711,10 @@
     "stop": 37,
     "name": "Brooklyn Museum — First Museum Retrospective",
     "address": "200 Eastern Parkway, Brooklyn, NY",
-    "position": null,
+    "position": [
+      40.670907,
+      -73.963321
+    ],
     "intro": [
       "In June 1927, the Brooklyn Museum opened Paintings by Georgia O’Keeffe, presenting fifteen paintings through September 1. It was her first museum retrospective. Among the works was The Red Maple at Lake George (1926), listed as number one in the exhibition. For years Alfred Stieglitz had shown her paintings in his Manhattan galleries. Now a public museum was exhibiting them beyond his rooms."
     ],
